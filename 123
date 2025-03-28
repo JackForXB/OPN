@@ -27,8 +27,14 @@ cashnovada_ph_test_salt_start
 SCJiOQxFNb31f9gH
 cashnovada_test_salt_end
 
+cashnovada_ph_product_path_start
+https://api.cashnovada.icu
+cashnovada_product_path_end
+cashnovada_ph_product_salt_start
+MHIxdQD9IwPG0Osw
+cashnovada_product_salt_end
+
 cashnovada_ph_test_type_start
-1
 cashnovada_test_type_end
 
 // ** Test PH
