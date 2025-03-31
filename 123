@@ -38,6 +38,25 @@ cashnovada_ph_test_type_start
 1
 cashnovada_test_type_end
 
+
+// ** Walton Lend
+waltonlend_inda_test_path_start
+https://test-ind-api.fyinformation.cc
+waltonlend_test_path_end
+waltonlend_inda_test_salt_start
+8Fp4IruUCLjWDM2J
+waltonlend_test_salt_end
+
+
+
+
+cashnovada_type_start
+0
+cashnovada_type_end
+
+
+
+
 // ** Test PH
 xiongbingtest_ph_test_path_starthttps://test-phl-api.fyinformation.ccxiongbingtest_test_path_end
 xiongbingtest_ph_test_salt_startGXuYOLrt7zbNtn3dxiongbingtest_test_salt_end
