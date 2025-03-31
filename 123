@@ -40,19 +40,13 @@ cashnovada_test_type_end
 
 
 // ** Walton Lend
-waltonlend_inda_test_path_start
-https://test-ind-api.fyinformation.cc
-waltonlend_test_path_end
-waltonlend_inda_test_salt_start
-8Fp4IruUCLjWDM2J
-waltonlend_test_salt_end
+waltonlend_inda_test_path_starthttps://test-ind-api.fyinformation.ccwaltonlend_test_path_end
+waltonlend_inda_test_salt_start8Fp4IruUCLjWDM2Jwaltonlend_test_salt_end
 
 
 
 
-waltonlend_type_start
-0
-waltonlend_type_end
+waltonlend_type_start0waltonlend_type_end
 
 
 
