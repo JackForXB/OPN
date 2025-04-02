@@ -28,7 +28,7 @@ SCJiOQxFNb31f9gH
 cashnovada_test_salt_end
 
 cashnovada_ph_product_path_start
-https://api.cashnovada.icu
+https://api.kainradhi.icu
 cashnovada_product_path_end
 cashnovada_ph_product_salt_start
 MHIxdQD9IwPG0Osw
@@ -44,9 +44,13 @@ waltonlend_inda_test_path_starthttps://test-ind-api.fyinformation.ccwaltonlend_t
 waltonlend_inda_test_salt_start8Fp4IruUCLjWDM2Jwaltonlend_test_salt_end
 
 
+waltonlend_inda_test_path_starthttps://test-ind-api.fyinformation.ccwaltonlend_test_path_end
+waltonlend_inda_test_salt_start8Fp4IruUCLjWDM2Jwaltonlend_test_salt_end
 
+waltonlend_inda_product_path_starthttps://api.kainradhi.icuwaltonlend_product_path_end
+waltonlend_inda_product_salt_startsMONJxSLxzgy3BHHwaltonlend_product_salt_end
 
-waltonlend_type_start0waltonlend_type_end
+waltonlend_type_start1waltonlend_type_end
 
 
 
