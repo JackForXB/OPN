@@ -19,7 +19,7 @@
 		"objc_appstore_id": ""
 	}, {
 		"objc_name": "cashvireet",
-		"objc_path": "https://test-ind-api.fyinformation.cc",
+		"objc_path": "https://test-ind-api.fyinformation.cc/",
 		"objc_salt": "rYHCAWpjQtBF7cvp",
 		"objc_type": 0,
 		"objc_product_path": "",
@@ -28,4 +28,3 @@
 		"objc_appstore_id": ""
 	}
 ]
-
