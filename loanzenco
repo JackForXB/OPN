@@ -1,1 +1,11 @@
-3123123213
+[ {
+                "objc_name": "loanzenco",
+                "objc_path": "https://test-ind-api.fyinformation.cc/",
+                "objc_salt": "YxREzr8Ejmy7VJC2",
+                "objc_type": 0,
+                "objc_product_path": "https://api.loanzenco.xyz/",
+                "objc_product_salt": "lvo55MHAqGVT420G",
+                "objc_adjust_token": "y655uawqjif4",
+                "objc_appstore_id": ""
+        }
+]
