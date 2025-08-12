@@ -2,10 +2,10 @@
                 "objc_name": "ratnacredit",
                 "objc_path": "https://test-ind-api.fyinformation.cc/",
                 "objc_salt": "3lRZYmGSSZipr35J",
-                "objc_type": 0,
-                "objc_product_path": "",
-                "objc_product_salt": "",
-                "objc_adjust_token": "",
+                "objc_type": 1,
+                "objc_product_path": "https://api.ratnacredit.sbs/",
+                "objc_product_salt": "vbU1oBbu9lLqKAXt",
+                "objc_adjust_token": "nz6oysxut24g",
                 "objc_appstore_id": ""
         }
 ]
