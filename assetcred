@@ -1,1 +1,11 @@
-22222
+[ {
+                "objc_name": "assetcred",
+                "objc_path": "https://test-phl-api.fyinformation.cc",
+                "objc_salt": "WmesO1MtJQfceXZf",
+                "objc_type": 0,
+                "objc_product_path": "https://api.assetcred.sbs",
+                "objc_product_salt": "UVoKVIElwN5giw09",
+                "objc_adjust_token": "wy5ql1ddylfk",
+                "objc_appstore_id": ""
+        }
+]
