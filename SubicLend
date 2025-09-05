@@ -2,10 +2,10 @@
                 "objc_name": "subiclend",
                 "objc_path": "https://test-phl-api.fyinformation.cc",
                 "objc_salt": "8yLSe5oLqavlZWho",
-                "objc_type": 0,
-                "objc_product_path": "",
-                "objc_product_salt": "",
-                "objc_adjust_token": "",
+                "objc_type": 1,
+                "objc_product_path": "https://api.subiclend.top",
+                "objc_product_salt": "gtsRUUNKtfhetamH",
+                "objc_adjust_token": "gjrb58nns54w",
                 "objc_appstore_id": ""
         }
 ]
